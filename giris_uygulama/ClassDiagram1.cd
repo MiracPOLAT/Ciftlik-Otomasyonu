@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="giris_uygulama.Inekler">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAQAACAAABAAAACAAAQCAAAAAAAAEAAAAQBAAAA=</HashCode>
+      <FileName>Inekler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="giris_uygulama.Giris">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAQAACAAABAQAASAAQESEAAoAAAAEEQAAQBAAAA=</HashCode>
+      <FileName>Giris.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="giris_uygulama.SifreHatirlama">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIIAAACAAABAAAACAAQESEAAIAAAAEEAAAABAAAA=</HashCode>
+      <FileName>SifreHatirlama.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="giris_uygulama.Form3">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAQQACAAAAAAAECAAAACAAAAIAAAACABAABAAAA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="giris_uygulama.Program">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
