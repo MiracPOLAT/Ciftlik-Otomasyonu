@@ -4,9 +4,9 @@ artırmak ve karar verme süreçlerini desteklemek amacıyla çeşitli modüller
 İki farklı kullanıcı rolü (çalışan ve yönetici) için ayrı giriş sistemleri sunarak, her kullanıcı 
 grubunun ihtiyaçlarına uygun erişim ve kontrol sağlamaktadır.
 
-## Ana Bileşenler
+# Ana Bileşenler
 
-# İnek Yönetimi: İneklerin eklenmesi, çıkarılması ve temel bilgilerin yönetilmesi. 
+## İnek Yönetimi: İneklerin eklenmesi, çıkarılması ve temel bilgilerin yönetilmesi. 
 #Süt Üretimi Takibi: Günlük süt üretiminin, belirli zaman dilimlerinde (sabah, öğlen, akşam) 
 kaydedilmesi. 
 Sağlık Takibi: İneklerin sağlık durumlarının izlenmesi ve gerekli sağlık müdahalelerinin 
